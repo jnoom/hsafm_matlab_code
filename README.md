@@ -19,5 +19,9 @@ Run the main file `hsafm_stateson.m`.
 
 
 ### Citations
+For citing the methodology, please refer to the corresponding paper.
 
-For citing the software and/or the methodology, please refer to the corresponding paper.
+For citing the software, please use the DOI below.
+
+[![DOI](https://zenodo.org/badge/738135505.svg)](https://zenodo.org/doi/10.5281/zenodo.10454091)
+
